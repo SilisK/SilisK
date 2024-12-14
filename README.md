@@ -9,8 +9,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-Web Projects => [siliskleemoff.com](https://siliskleemoff.com)
-
 #
 
 ![Game Development](https://img.shields.io/badge/Game%20Development-00BFFF?style=flat&logo=gamepad&logoColor=white)
